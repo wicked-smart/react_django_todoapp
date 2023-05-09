@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+
+#  files and directories initially created by the virtualenv
+
+bin/
+lib/
+
+
+*.pyc
+fixtures/
+
+
+
+pyvenv.cfg
